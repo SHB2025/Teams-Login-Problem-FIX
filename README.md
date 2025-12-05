@@ -1,7 +1,5 @@
 # Teams-Login-Problem-FIX
 Rješavanje Login problema Microsoft Teams aplikacije
-# Otvori PowerShell i pokreni:
-Invoke-RestMethod -Uri "https://raw.githubusercontent.com/SHB2025/Teams-Login-Problem-FIX/refs/heads/main/Teams-login-fix-powershell.ps1" | Invoke-Expression
 
 ## Problem sa prijavom u Microsoft Teams?
 Ako Microsoft Teams prikazuje grešku poput:
