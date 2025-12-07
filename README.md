@@ -25,6 +25,7 @@ Invoke-RestMethod -Uri "https://raw.githubusercontent.com/SHB2025/Teams-Login-Pr
 ```
 📺 YouTube video
 🎥 Pogledaj korak-po-korak vodič:
+https://youtu.be/KrQ-hs7I9jc
 
 🔐 Sigurnosna napomena
 Skripta ne prikuplja podatke, ne mijenja sistemske postavke i koristi se isključivo za lokalno čišćenje cache-a Microsoft Teams aplikacije.
@@ -51,6 +52,7 @@ Invoke-RestMethod -Uri "https://raw.githubusercontent.com/SHB2025/Teams-Login-Pr
 ```
 📺 YouTube Tutorial
 Watch the full walkthrough:
+https://youtu.be/KrQ-hs7I9jc
 
 🔐 Security Note
 This script does not collect data or modify system settings. It only clears local cache folders used by Microsoft Teams.
